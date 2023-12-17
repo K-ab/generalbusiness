@@ -33,9 +33,10 @@
         padding-top: 10px;
     }
 
-    header,h1 {
+    header,h3 {
         margin: 0;
         color: #fff;
+     align_text:center;
     }
     #map {
         height: 400px;
