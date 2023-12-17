@@ -37,8 +37,7 @@
         margin: 0;
         color: #fff;
      align_text:center;
-     position: absolute;
-    top: 35px;
+     top: 30px;
     }
     #map {
         height: 400px;
