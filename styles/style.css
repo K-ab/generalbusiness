@@ -1,4 +1,4 @@
-<style>
+ 
     body{
         background-color: #fff;
 
@@ -97,4 +97,18 @@
         color:white;
     }
 
-</style>
+
+.logo {
+    position: absolute;
+    top: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100px;  
+    height: auto;
+}
+
+h2 {
+    text-align: center;
+    color: #333;
+    margin-top: 70px;  
+}
